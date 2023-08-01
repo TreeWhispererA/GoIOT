@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "64b47c1d33f93ecb3287edc5"
+  },
+  "name": "template-llrp-1",
+  "type": 0,
+  "configuration": [
+    {
+      "name": "AddROSpec",
+      "config": "{ \"ROSpec\": { \"ROSpecID\": 1, \"Priority\": 0, \"ROSpecCurrentState\": 0, \"ROBoundarySpec\": {\"StartTrigger\": { \"Trigger\": 1, \"PeriodicTrigger\": null, \"GPITrigger\": null }, \"StopTrigger\": { \"Trigger\": 1, \"DurationTriggerValue\": 1500, \"GPITriggerValue\": null } }, \"AISpecs\": [ { \"AntennaIDs\": [ 0 ], \"StopTrigger\": { \"Trigger\": 0, \"DurationTriggerValue\": 0, \"GPITrigger\": null, \"TagObservationTrigger\": null }, \"InventoryParameterSpecs\": [ { \"InventoryParameterSpecID\": 1, \"AirProtocolID\": 1, \"AntennaConfigurations\": null, \"Custom\": null } ], \"Custom\": null } ], \"RFSurveySpecs\": null, \"Custom\": null, \"LoopSpec\": null, \"ROReportSpec\": { \"Trigger\": 2, \"N\": 0, \"TagReportContentSelector\": { \"EnableROSpecID\": true, \"EnableSpecIndex\": true, \"EnableInventoryParamSpecID\": true, \"EnableAntennaID\": true, \"EnableChannelIndex\": true, \"EnablePeakRSSI\": true, \"EnableFirstSeenTimestamp\": true, \"EnableLastSeenTimestamp\": true, \"EnableTagSeenCount\": true, \"EnableAccessSpecID\": true, \"C1G2EPCMemorySelector\": { \"CRCEnabled\": true, \"PCBitsEnabled\": true, \"XPCBitsEnabled\": false }, \"Custom\": null }, \"Custom\": null } } }"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b47c1d33f93ecb3287edc6"
+  },
+  "name": "template-llrp-2",
+  "type": 0,
+  "configuration": [
+    {
+      "name": "AddROSpec",
+      "config": "New AddROSpec"
+    },
+    {
+      "name": "ADDING",
+      "config": "New AddROSpec"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b47c1d33f93ecb3287edc7"
+  },
+  "name": "template-llrp-3",
+  "type": 0,
+  "configuration": [
+    {
+      "name": "AddROSpec",
+      "config": "ABCDEFGHIZ"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b47c1d33f93ecb3287edc8"
+  },
+  "name": "template-ble-1",
+  "type": 1,
+  "configuration": [
+    {
+      "name": "Bootstrap",
+      "config": "{ \"wifiProfiles\": [ { \"ssid\": \"Cisco_WPA2_FT_PSK_AES_63\", \"securityKey\": \"Abc123456789012345678901234567890123456789012345678901234567890\", \"securityType\": \"wpa2_fbt\", \"wpaEnterpriseUser\": \"\", \"wpaEnterprisePassword\": \"\", \"wpaEnterpriseOuterIdentity\": \"\", \"eapType\": \"\", \"enable\": false }, { \"ssid\": \"Cisco_WPA2_ENT_FT\", \"securityKey\": \"mpact123\",\"securityType\": \"wpa2_fbt\", \"wpaEnterpriseUser\": \"exact32\", \"wpaEnterprisePassword\": \"Aa123456789012345678901234567890\", \"wpaEnterpriseOuterIdentity\": \"abcdefg\", \"eapType\": \"peap\", \"enable\": false } ], \"gatewayConfigs\": [ { \"user\": \"user\", \"password\": \"scarlet\", \"receiverConfigURL\":\"http://10.76.3.129:9200/scarlet/gateway/config/v1/receiver?org=SC_Z EBRA&facility=SC_ZEBRA_SAN_JOS E\", \"configPullFrequencyInMins\": 15, \"enable\": false }, { \"user\": \"superuser\", \"password\": \"mpact123\", \"receiverConfigURL\": \"http://10.21.201.23:8005/stats/ReceiverConfig.json\", \"configPullFrequencyInMins\": 15, \"enable\": true } ] }"
+    },
+    {
+      "name": "CustomConfig",
+      "config": "{just another JSON or TOML or YAML}"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b47c1d33f93ecb3287edc9"
+  },
+  "name": "template-ble-2",
+  "type": 1,
+  "configuration": [
+    {
+      "name": "Bootstrap",
+      "config": "{ BOOSTRAP }"
+    }
+  ]
+}]

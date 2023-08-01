@@ -1,0 +1,57 @@
+version: latest
+
+services:
+  nginx:
+    container_name: 'web'
+    image: 'nginx:latest'
+    volumes:
+      - ./nginx/dev.conf.d:/etc/nginx/conf.d
+    ports:
+      - "8090:80"
+    depends_on:
+      - 'tempservice'
+
+  tempservice:
+    container_name: 'tempservice'
+    build: ./tempservice
+    ports:
+      - '8084:8084'
+    depends_on:
+      - 'mongo'
+
+  mongo:
+    image: 'mongo:latest'
+    container_name: 'mongo'
+    ports:
+      - '27100:27017'
+    volumes:
+      - ./data/dev/mongo:/data/db
+  # userservice:
+  #   build: ./UserService
+  #   ports:
+  #     - "8080:8080"
+  #   environment:
+  #     DB_URL: mongodb://mongodb:27017
+
+  # sitemanagerservice:
+  #   build: ./SiteManagerService
+  #   ports:
+  #     - "8082:8082"
+  #   environment:
+  #     DB_URL: mongodb://mongodb:27017
+
+  # staticservice:
+  #   build: ./StaticService
+  #   ports:
+  #     - "8081:8081"
+  #   environment:
+  #     DB_URL: mongodb://mongodb:27017
+
+  # devicemanagerservice:
+  #   build: ./DeviceManagerService
+  #   ports:
+  #     - "8083:8083"
+  #   environment:
+  #     DB_URL: mongodb://mongodb:27017
+
+

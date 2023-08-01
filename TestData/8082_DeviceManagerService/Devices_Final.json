@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "64b492a933f93ecb3287ee41"
+  },
+  "type": 0,
+  "prfid": {
+    "isactive": true,
+    "name": "llrp-reader-1",
+    "description": "This is first pRFID device",
+    "islocated": true,
+    "mapid": "649b509f6415a8b5d94fac04",
+    "mapname": "SiteGroup1/Site1-2/Map1-2-2",
+    "hostname": "customerhost_1",
+    "ip": "192.168.0.1",
+    "port": 5084,
+    "tls_enabled": false,
+    "mac": "11-22-33-44-55-ff",
+    "manufacturer": "64b483c933f93ecb3287edcd",
+    "model": "64b48cad33f93ecb3287ee15",
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "antennadata": {
+      "count" : 1,
+      "antennas": [
+        {
+          "no": 1,
+          "isset": true,
+          "isrunning": true,
+          "location": {
+            "x": 1,
+            "y": 1
+          }
+        }
+    ]},
+    "template": "64b47c1d33f93ecb3287edc6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b492a933f93ecb3287ee42"
+  },
+  "type": 0,
+  "prfid": {
+    "isactive": true,
+    "name": "llrp-reader-2",
+    "description": "This is second pRFID device",
+    "islocated": false,
+    "mapid": "",
+    "mapname": "",
+    "hostname": "customerhost_2",
+    "ip": "192.168.0.2",
+    "port": 5084,
+    "tls_enabled": false,
+    "mac": "11-22-33-44-55-ff",
+    "manufacturer": "64b483c933f93ecb3287edcd",
+    "model": "64b48cad33f93ecb3287ee16",
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "antennadata": 
+    {
+      "count": 2,
+      "antennas": [
+        {
+          "isset": true,
+          "isrunning": true,
+          "no": 1,
+          "location": {
+            "x": 2,
+            "y": 2
+          }
+        },
+        {
+          "isset": false,
+          "isrunning": false,
+          "no": 2,
+          "location": {
+            "x": 3,
+            "y": 3
+          }
+        }
+      ]
+    },
+    "template": "64b47c1d33f93ecb3287edc6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b492a933f93ecb3287ee43"
+  },
+  "type": 1,
+  "ble": {
+    "isactive": true,
+    "name": "ble-reader-1",
+    "description": "This is first ble device.",
+    "islocated": true,
+    "mapid": "649b50f56415a8b5d94fac08",
+    "mapname": "SiteGroup2/Site2-1/Map2-1-1",
+    "hostname": "zebrareader1",
+    "mac": "aa-bb-cc-dd-ee-ff",
+    "manufacturer": "64b483c933f93ecb3287edd5",
+    "model": "64b48cad33f93ecb3287ee2b",
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "location": {
+      "x": 100.9,
+      "y": 20.1
+    },
+    "template": "64b47c1d33f93ecb3287edc8"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b492a933f93ecb3287ee44"
+  },
+  "type": 1,
+  "ble": {
+    "isactive": true,
+    "name": "ble-reader-2",
+    "description": "This is second ble device.",
+    "islocated": false,
+    "mapid": "",
+    "mapname": "",
+    "hostname": "zebrareader2",
+    "mac": "aa-bb-cc-dd-ee-ff",
+    "manufacturer": "64b483c933f93ecb3287edd6",
+    "model": "64b48cad33f93ecb3287ee2d",
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "location": {
+      "x": 100.9,
+      "y": 20.1
+    },
+    "template": "64b47c1d33f93ecb3287edc8"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b492a933f93ecb3287ee45"
+  },
+  "type": 1,
+  "ble": {
+    "isactive": true,
+    "name": "ble-reader-3",
+    "description": "This is third ble device.",
+    "islocated": true,
+    "mapid": "649b51406415a8b5d94fac0c",
+    "mapname": "SiteGroup2/Site2-2/Map2-2-1",
+    "hostname": "zebrareader3",
+    "mac": "aa-bb-cc-dd-ee-ff",
+    "manufacturer": "64b483c933f93ecb3287edd6",
+    "model": "64b48cad33f93ecb3287ee2e",
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "location": {
+      "x": 100.9,
+      "y": 20.1
+    },
+    "template": "64b47c1d33f93ecb3287edc8"
+  }
+}
+]

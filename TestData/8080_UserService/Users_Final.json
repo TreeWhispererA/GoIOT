@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "649ae41076162c88ec648e8c"
+  },
+  "username": "aiden",
+  "password": "$2a$10$zw264OtnBk5Ws7g7zDhCoulbSGO3mc7oCsEWBq/vokvGJpwB6iNfq",
+  "email": "aiden@aiden.com",
+  "firstname": "aiden",
+  "lastname": "aiden",
+  "description": "aiden",
+  "lastconnect": {
+    "$date": "2023-07-15T12:13:32.604Z"
+  },
+  "role": [
+    "649b21e52d113b169b4bb050",
+    "649b21ed2d113b169b4bb052"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b408486bb65bb7ad8a01b"
+  },
+  "username": "jessica",
+  "password": "$2a$10$r5rTecYvIlYFsoLSWjOb.OswZKzLhwmR73DhqkQr1Y8Z3MLbVzZ6e",
+  "email": "jessica@gmail.com",
+  "firstname": "Jessica",
+  "lastname": "Jones",
+  "description": "She's a private investigator",
+  "lastconnect": {
+    "$date": "2023-07-15T12:18:04.714Z"
+  },
+  "role": [
+    "649b21ed2d113b169b4bb052",
+    "649b22092d113b169b4bb05a"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b408d86bb65bb7ad8a01d"
+  },
+  "username": "alexander",
+  "password": "$2a$10$6rIKCwTCGOEk0a.6YPN4uuwwwhLs86wuPFTFiqCy0ubrpQgo1kNyG",
+  "email": "alexander@yahoo.com",
+  "firstname": "Alexander",
+  "lastname": "Graham",
+  "description": "He invented the telephone",
+  "lastconnect": {
+    "$date": "2023-07-11T12:05:54.812Z"
+  },
+  "role": [
+    "649b220f2d113b169b4bb05c",
+    "649b3b072d113b169b4bb060"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b409286bb65bb7ad8a01f"
+  },
+  "username": "natalie",
+  "password": "$2a$10$nXreQW1h9Tx0DpUCbFWLJuslbr8G0gkoUeexEHsHpFE38RyO4qfpy",
+  "email": "natalie@hotmail.com",
+  "firstname": "Natalie",
+  "lastname": "Portman",
+  "description": "She's an actress and director",
+  "lastconnect": {
+    "$date": "2023-07-05T12:05:54.812Z"
+  },
+  "role": [
+    "649b220f2d113b169b4bb05c",
+    "649b3b072d113b169b4bb060",
+    "649b21ed2d113b169b4bb052"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b409886bb65bb7ad8a021"
+  },
+  "username": "peter",
+  "password": "$2a$10$JA6kIlIKI8OraVgLn8eGe.A2i4HT2qNnpadnJN1easbisBESLkNJy",
+  "email": "peter@outlook.com",
+  "firstname": "Peter",
+  "lastname": "Parker",
+  "description": "He's Spider-Man",
+  "lastconnect": {
+    "$date": "2023-07-01T12:05:54.812Z"
+  },
+  "role": [
+    "649b220f2d113b169b4bb05c"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b409d86bb65bb7ad8a023"
+  },
+  "username": "sophia",
+  "password": "$2a$10$ybj/7Sl4FVnp6trewngZFeHmmSBALAzLXQbvoKnEOxuUoapLs3kXC",
+  "email": "sophia@gmail.com",
+  "firstname": "Sophia",
+  "lastname": "Smith",
+  "description": "She's a scientist",
+  "lastconnect": {
+    "$date": "2023-07-03T12:05:54.812Z"
+  },
+  "role": [
+    "649b3b072d113b169b4bb060"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b40a386bb65bb7ad8a025"
+  },
+  "username": "david",
+  "password": "$2a$10$IbKAdYcBHIkL6Qj.ZRDNb.qW1EVQPQmOnVbYHX.TKcF31YvTMfzqq",
+  "email": "david@live.com",
+  "firstname": "David",
+  "lastname": "Beckham",
+  "description": "He's a retired soccer player",
+  "lastconnect": {
+    "$date": "2023-06-15T12:05:54.812Z"
+  },
+  "role": [
+    "649b22092d113b169b4bb05a"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b40a986bb65bb7ad8a027"
+  },
+  "username": "ashley",
+  "password": "$2a$10$80jPwnyn5T7ScGfSsYsHXeifKb7hvAwlGwJCGIQgudlt5O8P22dba",
+  "email": "ashley@gmail.com",
+  "firstname": "Ashley",
+  "lastname": "Johnson",
+  "description": "She's an actress and voice actor",
+  "lastconnect": {
+    "$date": "2023-03-15T12:05:54.812Z"
+  },
+  "role": [
+    "649b3b112d113b169b4bb062",
+    "649b21f32d113b169b4bb054",
+    "649b22092d113b169b4bb05a"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "649b40b286bb65bb7ad8a029"
+  },
+  "username": "brandon",
+  "password": "$2a$10$fikChx5Ie0NSLoYtOAK3f.TATNuQytT30rB9FiUqsKpNAhujYOApu",
+  "email": "brandon@hotmail.com",
+  "firstname": "Brandon",
+  "lastname": "Lee",
+  "description": "He was an actor and martial artist",
+  "lastconnect": {
+    "$date": "2023-01-15T12:05:54.812Z"
+  },
+  "role": [
+    "649b22022d113b169b4bb058",
+    "649b3b112d113b169b4bb062"
+  ],
+  "briefrole": null
+},
+{
+  "_id": {
+    "$oid": "64b233d375c59be641e8538d"
+  },
+  "username": "magic",
+  "password": "$2a$10$EcMwfh3Ct51q/3jOvsNmhuVe0wnkEtks3XsNKqn3Gc1ZtkEvHYDo.",
+  "email": "framirez@tracio.local",
+  "firstname": "Felipe",
+  "lastname": "Ramirez",
+  "description": "He's a super man",
+  "lastconnect": {
+    "$date": "2023-07-15T05:51:17.422Z"
+  },
+  "role": null,
+  "briefrole": null
+}]

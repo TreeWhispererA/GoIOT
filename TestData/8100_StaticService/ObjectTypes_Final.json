@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64b253983f7fd8e6eecfbd6d"
+  },
+  "name": "car",
+  "display_name": "car",
+  "description": "car",
+  "expiration_time": 100,
+  "color": "#123456",
+  "icon": "1.png"
+},
+{
+  "_id": {
+    "$oid": "64b253983f7fd8e6eecfbd6e"
+  },
+  "name": "medical equipment",
+  "display_name": "medical equipment",
+  "description": "medical equipment",
+  "expiration_time": 123,
+  "color": "#382832",
+  "icon": "2.png"
+},
+{
+  "_id": {
+    "$oid": "64b253983f7fd8e6eecfbd6f"
+  },
+  "name": "camera",
+  "display_name": "camera",
+  "description": "camera",
+  "expiration_time": 124,
+  "color": "#584564",
+  "icon": "3.png"
+},
+{
+  "_id": {
+    "$oid": "64b253983f7fd8e6eecfbd70"
+  },
+  "name": "patient",
+  "display_name": "patient",
+  "description": "patient",
+  "expiration_time": 60,
+  "color": "#594536",
+  "icon": "4.png"
+},
+{
+  "_id": {
+    "$oid": "64b253983f7fd8e6eecfbd71"
+  },
+  "name": "doctor",
+  "display_name": "doctor",
+  "description": "doctor",
+  "expiration_time": 99,
+  "color": "#a29999",
+  "icon": "5.png"
+}]

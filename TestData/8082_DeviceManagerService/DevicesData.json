@@ -1,0 +1,177 @@
+pRFID
+
+{
+    "name": "llrp-reader-1",
+    "hostname": "customerhost_1",
+    "ip": "192.168.0.1",
+    "port": 5084,
+    "tls_enabled": false,
+    "manufacturer": "impinj",
+    "mac": "11-22-33-44-55-ff",
+    "model": "Speedway R420",
+    "report_interval": 1000,
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "antennas": [
+        {
+            "no": 1,
+            "location": {
+                "x": 100.1,
+                "y": 100.1
+            }
+        },
+        {
+            "no": 2,
+            "location": {
+                "x": 200.1,
+                "y": 200.1
+            }
+        }
+    ],
+    "template": "template-llrp-1"
+}
+
+template-llrp-1
+
+{
+    "configuration": [
+        {
+            "name": "AddROSpec",
+            "config": {
+                "ROSpec": {
+                    "ROSpecID": 1,
+                    "Priority": 0,
+                    "ROSpecCurrentState": 0,
+                    "ROBoundarySpec": {
+                        "StartTrigger": {
+                            "Trigger": 1,
+                            "PeriodicTrigger": null,
+                            "GPITrigger": null
+                        },
+                        "StopTrigger": {
+                            "Trigger": 1,
+                            "DurationTriggerValue": 1500,
+                            "GPITriggerValue": null
+                        }
+                    },
+                    "AISpecs": [
+                        {
+                            "AntennaIDs": [
+                                0
+                            ],
+                            "StopTrigger": {
+                                "Trigger": 0,
+                                "DurationTriggerValue": 0,
+                                "GPITrigger": null,
+                                "TagObservationTrigger": null
+                            },
+                            "InventoryParameterSpecs": [
+                                {
+                                    "InventoryParameterSpecID": 1,
+                                    "AirProtocolID": 1,
+                                    "AntennaConfigurations": null,
+                                    "Custom": null
+                                }
+                            ],
+                            "Custom": null
+                        }
+                    ],
+                    "RFSurveySpecs": null,
+                    "Custom": null,
+                    "LoopSpec": null,
+                    "ROReportSpec": {
+                        "Trigger": 2,
+                        "N": 0,
+                        "TagReportContentSelector": {
+                            "EnableROSpecID": true,
+                            "EnableSpecIndex": true,
+                            "EnableInventoryParamSpecID": true,
+                            "EnableAntennaID": true,
+                            "EnableChannelIndex": true,
+                            "EnablePeakRSSI": true,
+                            "EnableFirstSeenTimestamp": true,
+                            "EnableLastSeenTimestamp": true,
+                            "EnableTagSeenCount": true,
+                            "EnableAccessSpecID": true,
+                            "C1G2EPCMemorySelector": {
+                                "CRCEnabled": true,
+                                "PCBitsEnabled": true,
+                                "XPCBitsEnabled": false
+                            },
+                            "Custom": null
+                        },
+                        "Custom": null
+                    }
+                }
+            }
+        }
+    ]
+}
+
+ble
+{
+    "name": "ble-reader-1",
+    "hostname": "zebrareader1",
+    "manufacturer": "zebra",
+    "mac": "aa-bb-cc-dd-ee-ff",
+    "model": "",
+    "appliance_uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "location": {
+        "x": 100.9,
+        "y": 20.1
+    },
+    "template": "template-ble-1"
+}
+
+
+template-ble-1
+{
+    "configuration": [
+        {
+            "name": "Bootstrap",
+            "config": {
+                "wifiProfiles": [
+                    {
+                        "ssid": "Cisco_WPA2_FT_PSK_AES_63",
+                        "securityKey": "Abc123456789012345678901234567890123456789012345678901234567890",
+                        "securityType": "wpa2_fbt",
+                        "wpaEnterpriseUser": "",
+                        "wpaEnterprisePassword": "",
+                        "wpaEnterpriseOuterIdentity": "",
+                        "eapType": "",
+                        "enable": false
+                    },
+                    {
+                        "ssid": "Cisco_WPA2_ENT_FT",
+                        "securityKey": "mpact123",
+                        "securityType": "wpa2_fbt",
+                        "wpaEnterpriseUser": "exact32",
+                        "wpaEnterprisePassword": "Aa123456789012345678901234567890",
+                        "wpaEnterpriseOuterIdentity": "abcdefg",
+                        "eapType": "peap",
+                        "enable": false
+                    }
+                ],
+                "gatewayConfigs": [
+                    {
+                        "user": "user",
+                        "password": "scarlet",
+                        "receiverConfigURL": "http://10.76.3.129:9200/scarlet/gateway/config/v1/receiver?org=SC_Z EBRA&facility=SC_ZEBRA_SAN_JOS E",
+                        "configPullFrequencyInMins": 15,
+                        "enable": false
+                    },
+                    {
+                        "user": "superuser",
+                        "password": "mpact123",
+                        "receiverConfigURL": "http://10.21.201.23:8005/stats/ReceiverConfig.json",
+                        "configPullFrequencyInMins": 15,
+                        "enable": true
+                    }
+                ]
+            }
+        },
+        {
+            "name": "CustomConfig",
+            "config": "{just another JSON or TOML or YAML}"
+        } 
+    ] 
+}

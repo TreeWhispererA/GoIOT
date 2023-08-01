@@ -1,0 +1,1381 @@
+[{
+  "_id": {
+    "$oid": "649b21e52d113b169b4bb050"
+  },
+  "name": "superadmin",
+  "color": "#c084fc",
+  "description": "You are a king!",
+  "sitegroupid": "649b4f226415a8b5d94fabf2",
+  "isadmin": 0,
+  "devicepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": false,
+      "objectreport": {
+        "access": false,
+        "object": null,
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 0
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 0
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 0
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c783",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c784",
+            "pvalue": 2
+          }
+        ],
+        "sites": [
+          {
+            "pname": "649b506e6415a8b5d94fac00",
+            "pvalue": 0
+          },
+          {
+            "pname": "649b51936415a8b5d94fac0e",
+            "pvalue": 0
+          },
+          {
+            "pname": "649b509f6415a8b5d94fac04",
+            "pvalue": 0
+          },
+          {
+            "pname": "649b52656415a8b5d94fac1c",
+            "pvalue": 0
+          },
+          {
+            "pname": "649b52846415a8b5d94fac22",
+            "pvalue": 0
+          }
+        ]
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 0
+    },
+    "history": {
+      "access": false,
+      "objectevent": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      },
+      "tagblink": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      }
+    },
+    "alert": {
+      "access": false,
+      "objectalert": {
+        "access": false,
+        "data": null
+      },
+      "systemalert": {
+        "access": false,
+        "data": null
+      }
+    },
+    "sitemanager": {
+      "access": false,
+      "sitegroup": null
+    },
+    "devicemanager": {
+      "access": false,
+      "devices": null
+    },
+    "rulesmanager": {
+      "access": false,
+      "rules": 0
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 0
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": false
+    },
+    "system": {
+      "access": false,
+      "systempermission": 0
+    }
+  },
+  "sitepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b21ed2d113b169b4bb052"
+  },
+  "name": "admin_site1",
+  "color": "#bfdbfe",
+  "description": "The teacher is in charge of the classroom.",
+  "sitegroupid": "649b4f226415a8b5d94fabf2",
+  "isadmin": 1,
+  "devicepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": false,
+      "objectreport": {
+        "access": false,
+        "object": null,
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c783",
+            "pvalue": 2
+          }
+        ],
+        "sites": null
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 0
+    },
+    "history": {
+      "access": false,
+      "objectevent": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      },
+      "tagblink": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      }
+    },
+    "alert": {
+      "access": false,
+      "objectalert": {
+        "access": false,
+        "data": null
+      },
+      "systemalert": {
+        "access": false,
+        "data": null
+      }
+    },
+    "sitemanager": {
+      "access": false,
+      "sitegroup": null
+    },
+    "devicemanager": {
+      "access": false,
+      "devices": null
+    },
+    "rulesmanager": {
+      "access": false,
+      "rules": 0
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 0
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": false
+    },
+    "system": {
+      "access": false,
+      "systempermission": 0
+    }
+  },
+  "sitepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b21f32d113b169b4bb054"
+  },
+  "name": "admin_site2",
+  "color": "#bbf7d0",
+  "description": "Jane is responsible for organizing the event.",
+  "sitegroupid": "649b4f586415a8b5d94fabf4",
+  "isadmin": 1,
+  "devicepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": false,
+      "objectreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 0
+    },
+    "history": {
+      "access": false,
+      "objectevent": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      },
+      "tagblink": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      }
+    },
+    "alert": {
+      "access": false,
+      "objectalert": {
+        "access": false,
+        "data": null
+      },
+      "systemalert": {
+        "access": false,
+        "data": null
+      }
+    },
+    "sitemanager": {
+      "access": false,
+      "sitegroup": null
+    },
+    "devicemanager": {
+      "access": false,
+      "devices": null
+    },
+    "rulesmanager": {
+      "access": false,
+      "rules": 0
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 0
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": false
+    },
+    "system": {
+      "access": false,
+      "systempermission": 0
+    }
+  },
+  "sitepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b21fb2d113b169b4bb056"
+  },
+  "name": "admin2_site1",
+  "color": "#9ca3af",
+  "description": "The coach is leading the team to victory.",
+  "sitegroupid": "649b4f226415a8b5d94fabf2",
+  "isadmin": 1,
+  "devicepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": false,
+      "objectreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 0
+    },
+    "history": {
+      "access": false,
+      "objectevent": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      },
+      "tagblink": {
+        "access": false,
+        "sites": null,
+        "objects": null
+      }
+    },
+    "alert": {
+      "access": false,
+      "objectalert": {
+        "access": false,
+        "data": null
+      },
+      "systemalert": {
+        "access": false,
+        "data": null
+      }
+    },
+    "sitemanager": {
+      "access": false,
+      "sitegroup": null
+    },
+    "devicemanager": {
+      "access": false,
+      "devices": null
+    },
+    "rulesmanager": {
+      "access": false,
+      "rules": 0
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 0
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": false
+    },
+    "system": {
+      "access": false,
+      "systempermission": 0
+    }
+  },
+  "sitepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b22022d113b169b4bb058"
+  },
+  "name": "viewer_site1",
+  "color": "#c084fc",
+  "description": "The CEO is overseeing the company's operations.",
+  "sitegroupid": "649b4f226415a8b5d94fabf2",
+  "isadmin": 2,
+  "sitepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": true,
+      "objectreport": {
+        "access": true,
+        "object": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 2
+          }
+        ],
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c780",
+            "pvalue": 1
+          }
+        ],
+        "sites": [
+        ]
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 2
+    },
+    "history": {
+      "access": true,
+      "objectevent": {
+        "access": false,
+        "sites": [
+        ],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 2
+          }
+        ]
+      },
+      "tagblink": {
+        "access": true,
+        "sites": [
+          {
+            "pname": "Site1",
+            "pvalue": 1
+          },
+          {
+            "pname": "Site2",
+            "pvalue": 1
+          },
+          {
+            "pname": "Site3",
+            "pvalue": 1
+          },
+          {
+            "pname": "Site4",
+            "pvalue": 1
+          },
+          {
+            "pname": "Site5",
+            "pvalue": 1
+          }
+        ],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 1
+          }
+        ]
+      }
+    },
+    "alert": {
+      "access": true,
+      "objectalert": {
+        "access": true,
+        "data": [
+        ]
+      },
+      "systemalert": {
+        "access": true,
+        "data": [
+        ]
+      }
+    },
+    "sitemanager": {
+      "access": true,
+      "sitegroup": [
+      ]
+    },
+    "devicemanager": {
+      "access": true,
+      "devices": [
+        {
+          "pname": "64b271c610bf8cdb6458c77f",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c780",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c781",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c782",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c783",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c784",
+          "pvalue": 2
+        }
+      ]
+    },
+    "rulesmanager": {
+      "access": true,
+      "rules": 1
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 1
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": true
+    },
+    "system": {
+      "access": true,
+      "systempermission": 2
+    }
+  },
+  "devicepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b22092d113b169b4bb05a"
+  },
+  "name": "viewer_site2",
+  "color": "#3a21cb",
+  "description": "Susan is managing the project.",
+  "sitegroupid": "649b4f586415a8b5d94fabf4",
+  "isadmin": 2,
+  "sitepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": true,
+      "objectreport": {
+        "access": true,
+        "object": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6e",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 1
+          }
+        ],
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c780",
+            "pvalue": 1
+          }
+        ],
+        "sites": []
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 2
+    },
+    "history": {
+      "access": true,
+      "objectevent": {
+        "access": false,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6e",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 2
+          }
+        ]
+      },
+      "tagblink": {
+        "access": true,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 1
+          }
+        ]
+      }
+    },
+    "alert": {
+      "access": true,
+      "objectalert": {
+        "access": true,
+        "data": []
+      },
+      "systemalert": {
+        "access": true,
+        "data": []
+      }
+    },
+    "sitemanager": {
+      "access": true,
+      "sitegroup": []
+    },
+    "devicemanager": {
+      "access": true,
+      "devices": [
+        {
+          "pname": "64b271c610bf8cdb6458c77f",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c780",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c781",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c782",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c783",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c784",
+          "pvalue": 2
+        }
+      ]
+    },
+    "rulesmanager": {
+      "access": true,
+      "rules": 1
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 1
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": true
+    },
+    "system": {
+      "access": true,
+      "systempermission": 2
+    }
+  },
+  "devicepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b220f2d113b169b4bb05c"
+  },
+  "name": "viewer2_site2",
+  "color": "#6119b0",
+  "description": "Susan is managing the project.",
+  "sitegroupid": "649b4f586415a8b5d94fabf4",
+  "isadmin": 2,
+  "sitepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": true,
+      "objectreport": {
+        "access": true,
+        "object": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6e",
+            "pvalue": 1
+          }
+        ],
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c780",
+            "pvalue": 1
+          }
+        ],
+        "sites": []
+      },
+      "tagreport": {
+        "access": false,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 2
+    },
+    "history": {
+      "access": true,
+      "objectevent": {
+        "access": false,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 2
+          }
+        ]
+      },
+      "tagblink": {
+        "access": true,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 1
+          }
+        ]
+      }
+    },
+    "alert": {
+      "access": true,
+      "objectalert": {
+        "access": true,
+        "data": []
+      },
+      "systemalert": {
+        "access": true,
+        "data": []
+      }
+    },
+    "sitemanager": {
+      "access": true,
+      "sitegroup": []
+    },
+    "devicemanager": {
+      "access": true,
+      "devices": [
+        {
+          "pname": "64b271c610bf8cdb6458c77f",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c780",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c781",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c782",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c783",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c784",
+          "pvalue": 2
+        }
+      ]
+    },
+    "rulesmanager": {
+      "access": true,
+      "rules": 1
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 1
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": true
+    },
+    "system": {
+      "access": true,
+      "systempermission": 2
+    }
+  },
+  "devicepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b3afc2d113b169b4bb05e"
+  },
+  "name": "editor_site1",
+  "color": "#bbf7d0",
+  "description": "The supervisor is in control of the production line.",
+  "sitegroupid": "649b4f226415a8b5d94fabf2",
+  "isadmin": 2,
+  "sitepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": true,
+      "objectreport": {
+        "access": true,
+        "object": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 1
+          }
+        ],
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 0
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c780",
+            "pvalue": 1
+          }
+        ],
+        "sites": []
+      },
+      "tagreport": {
+        "access": true,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 2
+    },
+    "history": {
+      "access": true,
+      "objectevent": {
+        "access": false,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 0
+          }
+        ]
+      },
+      "tagblink": {
+        "access": true,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6d",
+            "pvalue": 1
+          }
+        ]
+      }
+    },
+    "alert": {
+      "access": true,
+      "objectalert": {
+        "access": true,
+        "data": []
+      },
+      "systemalert": {
+        "access": true,
+        "data": []
+      }
+    },
+    "sitemanager": {
+      "access": true,
+      "sitegroup": []
+    },
+    "devicemanager": {
+      "access": true,
+      "devices": [
+        {
+          "pname": "64b271c610bf8cdb6458c77f",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c780",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c781",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c782",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c783",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c784",
+          "pvalue": 1
+        }
+      ]
+    },
+    "rulesmanager": {
+      "access": true,
+      "rules": 1
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 2
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": true
+    },
+    "system": {
+      "access": true,
+      "systempermission": 2
+    }
+  },
+  "devicepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b3b072d113b169b4bb060"
+  },
+  "name": "editor_site2",
+  "color": "#fecaca",
+  "description": "The principal is overseeing the school's daily activities.",
+  "sitegroupid": "649b4f586415a8b5d94fabf4",
+  "isadmin": 2,
+  "sitepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": true,
+      "objectreport": {
+        "access": true,
+        "object": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 1
+          }
+        ],
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c780",
+            "pvalue": 2
+          }
+        ],
+        "sites": []
+      },
+      "tagreport": {
+        "access": true,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": true,
+      "zones": 2
+    },
+    "history": {
+      "access": true,
+      "objectevent": {
+        "access": false,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6e",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 0
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 1
+          }
+        ]
+      },
+      "tagblink": {
+        "access": true,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6e",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 2
+          }
+        ]
+      }
+    },
+    "alert": {
+      "access": true,
+      "objectalert": {
+        "access": true,
+        "data": []
+      },
+      "systemalert": {
+        "access": true,
+        "data": []
+      }
+    },
+    "sitemanager": {
+      "access": true,
+      "sitegroup": []
+    },
+    "devicemanager": {
+      "access": true,
+      "devices": [
+        {
+          "pname": "64b271c610bf8cdb6458c77f",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c780",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c781",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c782",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c783",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c784",
+          "pvalue": 1
+        }
+      ]
+    },
+    "rulesmanager": {
+      "access": true,
+      "rules": 1
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 2
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": true
+    },
+    "system": {
+      "access": true,
+      "systempermission": 2
+    }
+  },
+  "devicepermission": null,
+  "users": 0
+},
+{
+  "_id": {
+    "$oid": "649b3b112d113b169b4bb062"
+  },
+  "name": "editor2_site1",
+  "color": "#4ade80",
+  "description": "The captain is navigating the ship through the storm.",
+  "sitegroupid": "649b4f226415a8b5d94fabf2",
+  "isadmin": 2,
+  "sitepermission": null,
+  "pagepermission": {
+    "reports": {
+      "access": true,
+      "objectreport": {
+        "access": true,
+        "object": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 2
+          }
+        ],
+        "technology": [
+          {
+            "pname": "64b271c610bf8cdb6458c77f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c782",
+            "pvalue": 0
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c781",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b271c610bf8cdb6458c780",
+            "pvalue": 1
+          }
+        ],
+        "sites": []
+      },
+      "tagreport": {
+        "access": true,
+        "object": null,
+        "technology": null,
+        "sites": null
+      }
+    },
+    "locallive": {
+      "access": false,
+      "zones": 2
+    },
+    "history": {
+      "access": true,
+      "objectevent": {
+        "access": false,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6e",
+            "pvalue": 0
+          }
+        ]
+      },
+      "tagblink": {
+        "access": true,
+        "sites": [],
+        "objects": [
+          {
+            "pname": "64b253983f7fd8e6eecfbd71",
+            "pvalue": 1
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd6f",
+            "pvalue": 2
+          },
+          {
+            "pname": "64b253983f7fd8e6eecfbd70",
+            "pvalue": 1
+          }
+        ]
+      }
+    },
+    "alert": {
+      "access": true,
+      "objectalert": {
+        "access": true,
+        "data": []
+      },
+      "systemalert": {
+        "access": true,
+        "data": []
+      }
+    },
+    "sitemanager": {
+      "access": true,
+      "sitegroup": []
+    },
+    "devicemanager": {
+      "access": true,
+      "devices": [
+        {
+          "pname": "64b271c610bf8cdb6458c77f",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c780",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c781",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c782",
+          "pvalue": 2
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c783",
+          "pvalue": 1
+        },
+        {
+          "pname": "64b271c610bf8cdb6458c784",
+          "pvalue": 1
+        }
+      ]
+    },
+    "rulesmanager": {
+      "access": true,
+      "rules": 1
+    },
+    "analytics": {
+      "access": false,
+      "analytics": 2
+    },
+    "user": {
+      "access": false,
+      "add": false,
+      "edit": false,
+      "delete": false,
+      "view": true
+    },
+    "system": {
+      "access": true,
+      "systempermission": 2
+    }
+  },
+  "devicepermission": null,
+  "users": 0
+}]

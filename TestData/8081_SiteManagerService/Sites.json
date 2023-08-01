@@ -1,0 +1,684 @@
+[{
+  "_id": {
+    "$oid": "649b4f226415a8b5d94fabf2"
+  },
+  "name": "SiteGroup1",
+  "level": 0,
+  "parentid": "",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b4f586415a8b5d94fabf4"
+  },
+  "name": "SiteGroup2",
+  "level": 0,
+  "parentid": "",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b4f736415a8b5d94fabf6"
+  },
+  "name": "Site1-1",
+  "level": 1,
+  "parentid": "649b4f226415a8b5d94fabf2",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b4f906415a8b5d94fabf8"
+  },
+  "name": "Site1-2",
+  "level": 1,
+  "parentid": "649b4f226415a8b5d94fabf2",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b4fbf6415a8b5d94fabfa"
+  },
+  "name": "Site2-1",
+  "level": 1,
+  "parentid": "649b4f586415a8b5d94fabf4",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b4fd96415a8b5d94fabfc"
+  },
+  "name": "Site2-2",
+  "level": 1,
+  "parentid": "649b4f586415a8b5d94fabf4",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b50026415a8b5d94fabfe"
+  },
+  "name": "Map1-1-1",
+  "level": 2,
+  "parentid": "649b4f736415a8b5d94fabf6",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map1.wmf",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b506e6415a8b5d94fac00"
+  },
+  "name": "Map1-1-2",
+  "level": 2,
+  "parentid": "649b4f736415a8b5d94fabf6",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map2.pdf",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b50806415a8b5d94fac02"
+  },
+  "name": "Map1-2-1",
+  "level": 2,
+  "parentid": "649b4f906415a8b5d94fabf8",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map4.png",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b509f6415a8b5d94fac04"
+  },
+  "name": "Map1-2-2",
+  "level": 2,
+  "parentid": "649b4f906415a8b5d94fabf8",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map3.dwg",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b50dd6415a8b5d94fac06"
+  },
+  "name": "Map1-2-3",
+  "level": 2,
+  "parentid": "649b4f906415a8b5d94fabf8",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map2.pdf",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b50f56415a8b5d94fac08"
+  },
+  "name": "Map2-1-1",
+  "level": 2,
+  "parentid": "649b4fbf6415a8b5d94fabfa",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 1,
+    "isft": false
+  },
+  "mapurl": "map4.png",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b51126415a8b5d94fac0a"
+  },
+  "name": "Map2-1-2",
+  "level": 2,
+  "parentid": "649b50f56415a8b5d94fac08",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map5.svg",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b51406415a8b5d94fac0c"
+  },
+  "name": "Map2-2-1",
+  "level": 2,
+  "parentid": "649b4fd96415a8b5d94fabfc",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "map3.dwg",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b51936415a8b5d94fac0e"
+  },
+  "name": "Group1",
+  "level": 3,
+  "parentid": "649b509f6415a8b5d94fac04",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": []
+},
+{
+  "_id": {
+    "$oid": "649b52396415a8b5d94fac16"
+  },
+  "name": "Group2",
+  "level": 3,
+  "parentid": "649b50f56415a8b5d94fac08",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": []
+},
+{
+  "_id": {
+    "$oid": "649b52456415a8b5d94fac18"
+  },
+  "name": "Group3",
+  "level": 3,
+  "parentid": "649b51406415a8b5d94fac0c",
+  "zonedata": {
+    "points": null,
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 0,
+    "isft": false
+  },
+  "mapurl": "",
+  "zonegroup": []
+},
+{
+  "_id": {
+    "$oid": "649b52556415a8b5d94fac1a"
+  },
+  "name": "Zone1",
+  "level": 4,
+  "parentid": "649b51936415a8b5d94fac0e",
+  "zonedata": {
+    "color": "4",
+    "points": [
+      {
+        "xpos": 100,
+        "ypos": 50
+      },
+      {
+        "xpos": 200,
+        "ypos": 50
+      },
+      {
+        "xpos": 100,
+        "ypos": 250
+      },
+      {
+        "xpos": 200,
+        "ypos": 250
+      }
+    ],
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 2.482038582,
+    "isft": true
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b52656415a8b5d94fac1c"
+  },
+  "name": "Zone2",
+  "level": 4,
+  "parentid": "649b52396415a8b5d94fac16",
+  "zonedata": {
+    "color": "3",
+    "points": [
+      {
+        "xpos": 50,
+        "ypos": 100
+      },
+      {
+        "xpos": 350,
+        "ypos": 100
+      },
+      {
+        "xpos": 50,
+        "ypos": 500
+      },
+      {
+        "xpos": 350,
+        "ypos": 500
+      }
+    ],
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 2.482038582,
+    "isft": true
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b526f6415a8b5d94fac1e"
+  },
+  "name": "Zone3",
+  "level": 4,
+  "parentid": "649b52456415a8b5d94fac18",
+  "zonedata": {
+    "color": "9",
+    "points": [
+      {
+        "xpos": 180,
+        "ypos": 120
+      },
+      {
+        "xpos": 180,
+        "ypos": 600
+      },
+      {
+        "xpos": 580,
+        "ypos": 120
+      },
+      {
+        "xpos": 580,
+        "ypos": 600
+      }
+    ],
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 2.482038582,
+    "isft": true
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b52796415a8b5d94fac20"
+  },
+  "name": "Zone4",
+  "level": 4,
+  "parentid": "649b51936415a8b5d94fac0e",
+  "zonedata": {
+    "color": "0",
+    "points": [
+      {
+        "xpos": 40,
+        "ypos": 0
+      },
+      {
+        "xpos": 40,
+        "ypos": 80
+      },
+      {
+        "xpos": 270,
+        "ypos": 250
+      },
+      {
+        "xpos": 270,
+        "ypos": 500
+      }
+    ],
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 2.482038582,
+    "isft": true
+  },
+  "mapurl": "",
+  "zonegroup": null
+},
+{
+  "_id": {
+    "$oid": "649b52846415a8b5d94fac22"
+  },
+  "name": "Zone5",
+  "level": 4,
+  "parentid": "649b52396415a8b5d94fac16",
+  "zonedata": {
+    "color": "3",
+    "points": [
+      {
+        "xpos": 0,
+        "ypos": 0
+      },
+      {
+        "xpos": 80,
+        "ypos": 200
+      },
+      {
+        "xpos": 500,
+        "ypos": 400
+      },
+      {
+        "xpos": 300,
+        "ypos": 200
+      }
+    ],
+    "ref1": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "ref2": {
+      "xpos": 0,
+      "ypos": 0,
+      "lati": 0,
+      "long": 0
+    },
+    "scale": 2.482038582,
+    "isft": true
+  },
+  "mapurl": "",
+  "zonegroup": null
+}]

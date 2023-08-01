@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edcd"
+  },
+  "name": "Zebra",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edce"
+  },
+  "name": "IMPINJ",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edcf"
+  },
+  "name": "KATHREIN",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd0"
+  },
+  "name": "SICK",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd1"
+  },
+  "name": "SIEMENS",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd2"
+  },
+  "name": "Alien",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd3"
+  },
+  "name": "HoneyWell",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd4"
+  },
+  "name": "Generic UHF Reader",
+  "type": 0
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd5"
+  },
+  "name": "AAA",
+  "type": 1
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd6"
+  },
+  "name": "BBB",
+  "type": 1
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd7"
+  },
+  "name": "CCC",
+  "type": 1
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd8"
+  },
+  "name": "DDD",
+  "type": 1
+},
+{
+  "_id": {
+    "$oid": "64b483c933f93ecb3287edd9"
+  },
+  "name": "EEE",
+  "type": 1
+}]

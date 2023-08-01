@@ -1,0 +1,305 @@
+[{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee15"
+  },
+  "name": "FX7500",
+  "antenna": [
+    2,
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcd"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee16"
+  },
+  "name": "FX9500",
+  "antenna": [
+    4,
+    8
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcd"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee17"
+  },
+  "name": "FX9600",
+  "antenna": [
+    4,
+    8
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcd"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee18"
+  },
+  "name": "R220",
+  "antenna": [
+    2
+  ],
+  "manufacturer": "64b483c933f93ecb3287edce"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee19"
+  },
+  "name": "R420",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcd"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee1a"
+  },
+  "name": "R700",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcd"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee1b"
+  },
+  "name": "RRU1400",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcf"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee1c"
+  },
+  "name": "ARU2400",
+  "antenna": [
+    1,
+    3
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcf"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee1d"
+  },
+  "name": "ARU3500",
+  "antenna": [
+    1,
+    3
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcf"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee1e"
+  },
+  "name": "RRU4500",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcf"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee1f"
+  },
+  "name": "ARU 8500",
+  "antenna": [
+    3,
+    3
+  ],
+  "manufacturer": "64b483c933f93ecb3287edcf"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee20"
+  },
+  "name": "RFU630",
+  "antenna": [
+    1,
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd0"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee21"
+  },
+  "name": "RFU620",
+  "antenna": [
+    1
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd0"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee22"
+  },
+  "name": "SIMATIC RF610R",
+  "antenna": [
+    1
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd1"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee23"
+  },
+  "name": "SIMATIC RF615R",
+  "antenna": [
+    1
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd1"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee24"
+  },
+  "name": "SIMATIC RF650R",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd1"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee25"
+  },
+  "name": "SIMATIC RF680R",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd1"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee26"
+  },
+  "name": "SIMATIC RF680SR",
+  "antenna": [
+    1
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd1"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee27"
+  },
+  "name": "ALR-F800-X",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd2"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee28"
+  },
+  "name": "ALR-F800",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd2"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee29"
+  },
+  "name": "ALR-9680",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd2"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee2a"
+  },
+  "name": "IF2B",
+  "antenna": [
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd3"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee2b"
+  },
+  "name": "AAA-1",
+  "antenna": [
+    2,
+    4,
+    8
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd5"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee2c"
+  },
+  "name": "AAA-2",
+  "antenna": [
+    2,
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd5"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee2d"
+  },
+  "name": "BBB-1",
+  "antenna": [
+    2,
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd6"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee2e"
+  },
+  "name": "BBB-2",
+  "antenna": [
+    2,
+    4
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd6"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee2f"
+  },
+  "name": "CCC-1",
+  "antenna": [
+    1,
+    8
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd7"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee30"
+  },
+  "name": "CCC-2",
+  "antenna": [
+    4,
+    8
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd7"
+},
+{
+  "_id": {
+    "$oid": "64b48cad33f93ecb3287ee31"
+  },
+  "name": "CCC-3",
+  "antenna": [
+    2,
+    8
+  ],
+  "manufacturer": "64b483c933f93ecb3287edd7"
+}]
